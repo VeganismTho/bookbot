@@ -1,1 +1,1 @@
-# -workspace-github.com-bootdotdev-bookbot
+bookbot
